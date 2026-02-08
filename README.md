@@ -11,7 +11,7 @@ Developer, digital strategist, and neurodivergent advocate based in Northern Ire
 
 ## 🔧 Languages & Tools
 
-- **Languages**: PHP, JavaScript, Java, Python, HTML, CSS — I speak whatever the problem requires
+- **Languages**: PHP, JavaScript, TypeScript, Java, Python, HTML, CSS, SQL — I speak whatever the problem requires
 - **Cloud & Infra**: Hetzner, DigitalOcean, AWS, Cloudflare
 - **DevOps**: Docker, GitHub Actions, CapRover, Dokploy
 
