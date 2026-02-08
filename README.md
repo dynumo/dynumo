@@ -17,7 +17,7 @@ Developer, digital strategist, and neurodivergent advocate based in Northern Ire
 
 ## 🧪 Currently Exploring
 
-- AI tooling, RAG pipelines, Agentic Loops, and writing custom MCP servers with a focus on news 
+- AI tooling, RAG pipelines, Agentic Loops, and writing custom MCP servers with a focus on news and civic technology
 - Cyberfeminism and its implications for accessibility and tech governance  
 - Experimental ideas like browser-level accessibility APIs and AI-driven accessibility middleware  
 
