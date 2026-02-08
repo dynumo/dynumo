@@ -13,11 +13,11 @@ Developer, digital strategist, and neurodivergent advocate based in Northern Ire
 
 - **Languages**: PHP, JavaScript, Java, Python, HTML, CSS — I speak whatever the problem requires
 - **Cloud & Infra**: Hetzner, DigitalOcean, AWS, Cloudflare
-- **DevOps**: Docker, GitHub Actions, CapRover
+- **DevOps**: Docker, GitHub Actions, CapRover, Dokploy
 
 ## 🧪 Currently Exploring
 
-- AI tooling, RAG pipelines, and writing custom MCP servers  
+- AI tooling, RAG pipelines, Agentic Loops, and writing custom MCP servers with a focus on news 
 - Cyberfeminism and its implications for accessibility and tech governance  
 - Experimental ideas like browser-level accessibility APIs and AI-driven accessibility middleware  
 
